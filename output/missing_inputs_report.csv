@@ -1,0 +1,418 @@
+Name,City,State,Size_MW,Score_Default,Classification,Score_Best_Case,Score_Worst_Case,Score_Range,Missing_Inputs,PUE_Low_Score,PUE_High_Score,Growth_Low_Score,Growth_High_Score,OPEX_Low_Score,OPEX_High_Score,Data_Collection_Priority
+Weismullerstrasse 32-40 (FRA7),Frankfurt,,1.8,56.2,Good,70.6,37.05,33.55,baseline_pue; load_growth_rate; energy_pct_opex,42.12,64.68,50.29,62.02,56.2,56.2,HIGH
+Cessnalaan 1-33 AMS3,Amsterdam,,2.2,55.24,Good,68.59,36.86,31.73,baseline_pue; load_growth_rate; energy_pct_opex,42.51,62.91,49.58,60.83,55.24,55.24,HIGH
+JFK12,New York,NY,2.5,66.11,Good,79.71,48.16,31.55,baseline_pue; load_growth_rate; energy_pct_opex,53.68,73.94,60.45,71.72,66.11,66.11,HIGH
+ITENOS Frankfurt 3,Eschborn,Hesse,2.4,61.9,Good,75.29,43.93,31.36,baseline_pue; load_growth_rate; energy_pct_opex,49.48,69.58,56.25,67.47,61.9,61.9,HIGH
+Science PArk 121 (AMS9),Amsterdam,,2.6,58.41,Good,71.2,41.15,30.05,baseline_pue; load_growth_rate; energy_pct_opex,46.6,65.64,52.9,63.86,58.41,58.41,HIGH
+Epsilon Global Hubs,Singapore,N/A,2.5,71.47,Good,83.03,53.04,29.99,baseline_pue; load_growth_rate; energy_pct_opex,58.6,79.18,65.7,77.19,71.47,71.47,HIGH
+29-31 FRA12,Frankfurt,,1.5,51.65,Good,66.85,37.05,29.8,baseline_pue; load_growth_rate; energy_pct_opex,41.54,60.75,45.52,57.67,51.65,51.65,HIGH
+BOS-1,Boston,MA,3.6,72.52,Good,85.51,56.0,29.51,baseline_pue; load_growth_rate; energy_pct_opex,61.25,79.86,67.03,77.97,72.52,72.52,HIGH
+Fortress SF1,San Francisco,CA,3.0,73.77,Good,84.92,56.15,28.77,baseline_pue; load_growth_rate; energy_pct_opex,61.57,81.16,68.11,79.38,73.77,73.77,HIGH
+7-9 avenue des Arts et MEtiers PAR3,Paris,,2.8,51.92,Good,64.01,35.25,28.76,baseline_pue; load_growth_rate; energy_pct_opex,40.65,58.63,46.53,57.23,51.92,51.92,HIGH
+EWR20,Clifton,NJ,2.2,46.68,Moderate,59.7,31.25,28.45,baseline_pue; load_growth_rate; energy_pct_opex,35.47,54.12,41.04,52.22,46.68,46.68,HIGH
+EWR14,Carlstadt,NJ,2.2,46.68,Moderate,59.7,31.25,28.45,baseline_pue; load_growth_rate; energy_pct_opex,35.47,54.12,41.04,52.22,46.68,46.68,HIGH
+Théséé Data Center 2,Paris,Île-de-France,3.0,53.2,Good,65.07,36.98,28.09,baseline_pue; load_growth_rate; energy_pct_opex,42.3,59.74,47.87,58.45,53.2,53.2,HIGH
+Lyoner Strasse 28 FRA28,Frankfurt,,3.9,68.46,Good,80.7,52.82,27.88,baseline_pue; load_growth_rate; energy_pct_opex,57.96,75.24,63.13,73.75,68.46,68.46,HIGH
+Equinix BA2,Barcelona,Catalonia,3.4,49.91,Moderate,61.14,34.46,26.68,baseline_pue; load_growth_rate; energy_pct_opex,39.68,55.97,44.72,55.03,49.91,49.91,HIGH
+nLighten Amsterdam AMS ll,Schiphol-Rijk,,4.2,65.05,Good,76.67,50.13,26.54,baseline_pue; load_growth_rate; energy_pct_opex,55.18,71.36,59.85,70.21,65.05,65.05,HIGH
+SJC14,Santa Clara,CA,4.8,78.07,Excellent,88.47,61.97,26.5,baseline_pue; load_growth_rate; energy_pct_opex,67.13,84.86,72.62,83.5,78.07,78.07,HIGH
+Weismullerstrase 36 (FRA8),Frankfurt,,5.4,71.38,Good,83.11,56.77,26.34,baseline_pue; load_growth_rate; energy_pct_opex,61.73,77.75,66.19,76.54,71.38,71.38,HIGH
+NT Banggrak,Bangkok,,2.7,41.9,Moderate,53.93,27.77,26.16,baseline_pue; load_growth_rate; energy_pct_opex,31.83,48.6,36.48,47.23,41.9,41.9,HIGH
+Calle de Albasanz 71 MAD1,Madrid,,3.6,50.92,Good,61.96,35.82,26.14,baseline_pue; load_growth_rate; energy_pct_opex,40.98,56.83,45.77,55.99,50.92,50.92,HIGH
+Equinix TY2,Tokyo,Tokyo,5.0,68.8,Good,80.36,54.24,26.12,baseline_pue; load_growth_rate; energy_pct_opex,59.21,75.05,63.63,73.93,68.8,68.8,HIGH
+Calle de Albasanz 73 MAD2,Madrid,,2.4,42.38,Moderate,54.93,28.93,26.0,baseline_pue; load_growth_rate; energy_pct_opex,33.04,49.48,36.83,47.82,42.38,42.38,HIGH
+Equinix FR1,Frankfurt,Hesse,6.0,72.14,Good,83.73,57.8,25.93,baseline_pue; load_growth_rate; energy_pct_opex,62.71,78.4,66.99,77.27,72.14,72.14,HIGH
+ITENOS Frankfurt Eschborn,Eschborn,Hesse,6.0,72.14,Good,83.73,57.8,25.93,baseline_pue; load_growth_rate; energy_pct_opex,62.71,78.4,66.99,77.27,72.14,72.14,HIGH
+Esbogatan 11 (STO5),Stockholm,Kista,3.4,40.28,Moderate,51.36,25.46,25.9,baseline_pue; load_growth_rate; energy_pct_opex,29.67,46.25,35.06,45.39,40.28,40.28,HIGH
+SJC35,Santa Clara,CA,6.0,79.51,Excellent,89.65,63.92,25.73,baseline_pue; load_growth_rate; energy_pct_opex,68.98,86.1,74.12,84.87,79.51,79.51,HIGH
+SJC10,Santa Clara,CA,6.3,79.78,Excellent,89.87,64.29,25.58,baseline_pue; load_growth_rate; energy_pct_opex,69.34,86.34,74.41,85.14,79.78,79.78,HIGH
+Equinix TY4,Tokyo,Tokyo,6.0,70.23,Good,81.55,56.18,25.37,baseline_pue; load_growth_rate; energy_pct_opex,61.06,76.29,65.13,75.3,70.23,70.23,HIGH
+Telehouse Koto 1,Tokyo,Tokyo,6.0,70.23,Good,81.55,56.18,25.37,baseline_pue; load_growth_rate; energy_pct_opex,61.06,76.29,65.13,75.3,70.23,70.23,HIGH
+ESbogatan 11 (STO1),Stockholm,Kista,3.3,39.58,Moderate,50.79,25.46,25.33,baseline_pue; load_growth_rate; energy_pct_opex,29.4,45.65,34.33,44.73,39.58,39.58,HIGH
+LAX12,Los Angeles,CA,7.1,80.4,Excellent,90.38,65.12,25.26,baseline_pue; load_growth_rate; energy_pct_opex,70.13,86.87,75.05,85.72,80.4,80.4,HIGH
+Conapto Stockholm 2 South,Skarholmen,,4.0,43.73,Moderate,54.2,28.98,25.22,baseline_pue; load_growth_rate; energy_pct_opex,34.13,49.23,38.68,48.7,43.73,43.73,HIGH
+Bahnhof Pionen,Stockholm,Stockholm,4.0,43.73,Moderate,54.2,28.98,25.22,baseline_pue; load_growth_rate; energy_pct_opex,34.13,49.23,38.68,48.7,43.73,43.73,HIGH
+SP3,Osasco,São Paulo,4.0,52.25,Good,62.97,37.76,25.21,baseline_pue; load_growth_rate; energy_pct_opex,42.81,57.91,47.19,57.25,52.25,52.25,HIGH
+SIN-1,Singapore,N/A,7.3,80.53,Excellent,90.49,65.3,25.19,baseline_pue; load_growth_rate; energy_pct_opex,70.3,86.98,75.19,85.85,80.53,80.53,HIGH
+Equinix FR2,Frankfurt,Hesse,8.0,73.85,Good,85.14,60.11,25.03,baseline_pue; load_growth_rate; energy_pct_opex,64.92,79.87,68.78,78.9,73.85,73.85,HIGH
+Telehouse Frankfurt,Frankfurt,Hesse,8.0,73.85,Good,85.14,60.11,25.03,baseline_pue; load_growth_rate; energy_pct_opex,64.92,79.87,68.78,78.9,73.85,73.85,HIGH
+Maincubes FRA01,Offenbach,Hesse,8.0,73.85,Good,85.14,60.11,25.03,baseline_pue; load_growth_rate; energy_pct_opex,64.92,79.87,68.78,78.9,73.85,73.85,HIGH
+Serangoon,Singapore,N/A,8.6,81.24,Excellent,91.08,66.26,24.82,baseline_pue; load_growth_rate; energy_pct_opex,71.22,87.59,75.94,86.53,81.24,81.24,HIGH
+Equinix TY5,Tokyo,Tokyo,7.0,71.26,Good,82.39,57.57,24.82,baseline_pue; load_growth_rate; energy_pct_opex,62.38,77.17,66.21,76.28,71.26,71.26,HIGH
+Wilhelm Fay Strasse 24 FRA30,Frankfurt,,9.0,74.42,Good,85.61,60.88,24.73,baseline_pue; load_growth_rate; energy_pct_opex,65.66,80.36,69.37,79.45,74.42,74.42,HIGH
+SDC Manhattan,New York,NY,18.0,79.27,Excellent,90.54,65.96,24.58,baseline_pue; load_growth_rate; energy_pct_opex,70.67,85.26,74.23,84.3,79.27,79.27,HIGH
+Weismullerstrasse 34 (FRA14),Frankfurt,,9.6,74.71,Good,85.84,61.27,24.57,baseline_pue; load_growth_rate; energy_pct_opex,66.02,80.61,69.67,79.72,74.71,74.71,HIGH
+Equinix FR6,Frankfurt,Hesse,10.0,74.88,Good,85.98,61.5,24.48,baseline_pue; load_growth_rate; energy_pct_opex,66.24,80.76,69.85,79.88,74.88,74.88,HIGH
+Equinix FR8,Frankfurt,Hesse,10.0,74.88,Good,85.98,61.5,24.48,baseline_pue; load_growth_rate; energy_pct_opex,66.24,80.76,69.85,79.88,74.88,74.88,HIGH
+h.J.E Wenckebachweg 127 (AMS18),Amsterdam,,6.6,68.97,Good,79.9,55.44,24.46,baseline_pue; load_growth_rate; energy_pct_opex,60.24,74.73,63.96,73.96,68.97,68.97,HIGH
+Equinix TY6,Tokyo,Tokyo,8.0,72.03,Good,83.02,58.61,24.41,baseline_pue; load_growth_rate; energy_pct_opex,63.38,77.83,67.01,77.02,72.03,72.03,HIGH
+Telehouse Koto 2,Tokyo,Tokyo,8.0,72.03,Good,83.02,58.61,24.41,baseline_pue; load_growth_rate; energy_pct_opex,63.38,77.83,67.01,77.02,72.03,72.03,HIGH
+Colt Inzai 1,Inzai,Chiba,8.0,72.03,Good,83.02,58.61,24.41,baseline_pue; load_growth_rate; energy_pct_opex,63.38,77.83,67.01,77.02,72.03,72.03,HIGH
+T5 LA,Los Angeles,CA,12.0,82.38,Excellent,92.01,67.8,24.21,baseline_pue; load_growth_rate; energy_pct_opex,72.69,88.57,77.13,87.62,82.38,82.38,HIGH
+STT 2,Singapore,N/A,12.0,82.38,Excellent,92.01,67.8,24.21,baseline_pue; load_growth_rate; energy_pct_opex,72.69,88.57,77.13,87.62,82.38,82.38,HIGH
+Gotspace Norwich Campus,Norwich,CT,96.0,83.13,Excellent,94.07,69.89,24.18,baseline_pue; load_growth_rate; energy_pct_opex,74.56,89.23,78.08,88.18,83.13,83.13,HIGH
+Weismullerstrasse 25-27 FRA9,Frankfurt,,1.2,48.98,Moderate,61.22,37.05,24.17,baseline_pue; load_growth_rate; energy_pct_opex,41.54,54.87,44.14,53.81,48.98,48.98,HIGH
+Bangkok 2 Data Center,Chon Buri,,4.5,51.71,Good,62.01,37.86,24.15,baseline_pue; load_growth_rate; energy_pct_opex,42.82,57.05,46.75,56.61,51.71,51.71,HIGH
+GDC CA1,Sacramento,CA,12.6,82.52,Excellent,92.12,67.98,24.14,baseline_pue; load_growth_rate; energy_pct_opex,72.87,88.69,77.27,87.75,82.52,82.52,HIGH
+Equinix FR5,Frankfurt,Hesse,12.0,75.56,Excellent,86.55,62.42,24.13,baseline_pue; load_growth_rate; energy_pct_opex,67.13,81.35,70.57,80.54,75.56,75.56,HIGH
+Maincubes FRA02,Schwalbach,Hesse,12.0,75.56,Excellent,86.55,62.42,24.13,baseline_pue; load_growth_rate; energy_pct_opex,67.13,81.35,70.57,80.54,75.56,75.56,HIGH
+STT 1,Singapore,N/A,13.0,82.6,Excellent,92.19,68.1,24.09,baseline_pue; load_growth_rate; energy_pct_opex,72.97,88.76,77.36,87.83,82.6,82.6,HIGH
+SIN11,Singapore,N/A,13.2,82.64,Excellent,92.23,68.15,24.08,baseline_pue; load_growth_rate; energy_pct_opex,73.03,88.8,77.4,87.87,82.64,82.64,HIGH
+EDCSEA01,Seattle,WA,4.5,45.9,Moderate,55.99,31.92,24.07,baseline_pue; load_growth_rate; energy_pct_opex,36.93,51.1,40.96,50.78,45.9,45.9,HIGH
+Equinix SG1,Singapore,N/A,13.5,82.7,Excellent,92.27,68.23,24.04,baseline_pue; load_growth_rate; energy_pct_opex,73.1,88.85,77.46,87.92,82.7,82.7,HIGH
+STT 5,Singapore,N/A,13.8,82.75,Excellent,92.32,68.31,24.01,baseline_pue; load_growth_rate; energy_pct_opex,73.17,88.89,77.52,87.98,82.75,82.75,HIGH
+GDC CA3,Sacramento,CA,14.0,82.79,Excellent,92.35,68.35,24.0,baseline_pue; load_growth_rate; energy_pct_opex,73.22,88.92,77.56,88.01,82.79,82.79,HIGH
+STT 3,Singapore,N/A,15.2,82.98,Excellent,92.51,68.62,23.89,baseline_pue; load_growth_rate; energy_pct_opex,73.47,89.09,77.76,88.2,82.98,82.98,HIGH
+Industriparken 24 CPH3,Ballerup,,4.8,55.19,Good,65.48,41.6,23.88,baseline_pue; load_growth_rate; energy_pct_opex,46.49,60.51,50.25,60.08,55.19,55.19,HIGH
+Equinix TY8,Tokyo,Tokyo,10.0,73.1,Good,83.91,60.06,23.85,baseline_pue; load_growth_rate; energy_pct_opex,64.76,78.76,68.14,78.05,73.1,73.1,HIGH
+SG1,Singapore,N/A,17.0,83.22,Excellent,92.71,68.94,23.77,baseline_pue; load_growth_rate; energy_pct_opex,73.78,89.3,78.01,88.43,83.22,83.22,HIGH
+Equinix FR4,Frankfurt,Hesse,15.0,76.24,Excellent,87.11,63.35,23.76,baseline_pue; load_growth_rate; energy_pct_opex,68.01,81.93,71.28,81.19,76.24,76.24,HIGH
+Science Park 120 (AMS17),Amsterdam,,8.2,70.31,Good,81.0,57.25,23.75,baseline_pue; load_growth_rate; energy_pct_opex,61.97,75.89,65.36,75.24,70.31,70.31,HIGH
+STT 4,Singapore,N/A,18.0,83.34,Excellent,92.8,69.09,23.71,baseline_pue; load_growth_rate; energy_pct_opex,73.92,89.39,78.13,88.53,83.34,83.34,HIGH
+Hanauer Landstrasse 320 FRA18,Frankfurt,,16.0,76.41,Excellent,87.25,63.58,23.67,baseline_pue; load_growth_rate; energy_pct_opex,68.23,82.08,71.46,81.35,76.41,76.41,HIGH
+Maincubes FRA03,Schwalbach,Hesse,16.0,76.41,Excellent,87.25,63.58,23.67,baseline_pue; load_growth_rate; energy_pct_opex,68.23,82.08,71.46,81.35,76.41,76.41,HIGH
+Keppel Floating DC Singapore,Singapore,N/A,19.2,83.45,Excellent,92.9,69.26,23.64,baseline_pue; load_growth_rate; energy_pct_opex,74.08,89.5,78.25,88.65,83.45,83.45,HIGH
+Calle de Alfonso Gomez MAD4,Madrid,,5.0,55.7,Good,65.9,42.29,23.61,baseline_pue; load_growth_rate; energy_pct_opex,47.16,60.95,50.78,60.57,55.7,55.7,HIGH
+SIN10,Singapore,N/A,20.4,83.56,Excellent,92.98,69.4,23.58,baseline_pue; load_growth_rate; energy_pct_opex,74.21,89.59,78.36,88.75,83.56,83.56,HIGH
+Equinix HE3,Helsinki,,5.0,40.65,Moderate,50.39,26.85,23.54,baseline_pue; load_growth_rate; energy_pct_opex,31.86,45.59,35.77,45.46,40.65,40.65,HIGH
+Digital Realty FRA10,Frankfurt,Hesse,18.0,76.7,Excellent,87.48,63.96,23.52,baseline_pue; load_growth_rate; energy_pct_opex,68.6,82.33,71.76,81.63,76.7,76.7,HIGH
+Digital Realty FRA16,Frankfurt,Hesse,18.0,76.7,Excellent,87.48,63.96,23.52,baseline_pue; load_growth_rate; energy_pct_opex,68.6,82.33,71.76,81.63,76.7,76.7,HIGH
+NTT Frankfurt 3,Frankfurt,Hesse,18.0,76.7,Excellent,87.48,63.96,23.52,baseline_pue; load_growth_rate; energy_pct_opex,68.6,82.33,71.76,81.63,76.7,76.7,HIGH
+Telehouse Tama 3,Tama,Tokyo,12.0,73.82,Good,84.5,61.03,23.47,baseline_pue; load_growth_rate; energy_pct_opex,65.69,79.38,68.89,78.74,73.82,73.82,HIGH
+AT TOKYO CC1,Tokyo,Tokyo,12.0,73.82,Good,84.5,61.03,23.47,baseline_pue; load_growth_rate; energy_pct_opex,65.69,79.38,68.89,78.74,73.82,73.82,HIGH
+Weismullerstrase 1 (FRA15),Frankfurt,,19.2,76.84,Excellent,87.6,64.16,23.44,baseline_pue; load_growth_rate; energy_pct_opex,68.78,82.45,71.91,81.76,76.84,76.84,HIGH
+MSP-2,Eagan,MN,5.0,53.75,Good,63.82,40.41,23.41,baseline_pue; load_growth_rate; energy_pct_opex,45.27,58.9,48.86,58.59,53.75,53.75,HIGH
+Equinix FR7,Frankfurt,Hesse,20.0,76.93,Excellent,87.67,64.27,23.4,baseline_pue; load_growth_rate; energy_pct_opex,68.89,82.52,72.0,81.84,76.93,76.93,HIGH
+NTT Frankfurt 2,Frankfurt,Hesse,20.0,76.93,Excellent,87.67,64.27,23.4,baseline_pue; load_growth_rate; energy_pct_opex,68.89,82.52,72.0,81.84,76.93,76.93,HIGH
+AWS FRA54,Frankfurt,Hesse,20.0,76.93,Excellent,87.67,64.27,23.4,baseline_pue; load_growth_rate; energy_pct_opex,68.89,82.52,72.0,81.84,76.93,76.93,HIGH
+CyrusOne FRA1,Frankfurt,Hesse,20.0,76.93,Excellent,87.67,64.27,23.4,baseline_pue; load_growth_rate; energy_pct_opex,68.89,82.52,72.0,81.84,76.93,76.93,HIGH
+GDC CA2,Sacramento,CA,26.1,83.93,Excellent,93.29,69.9,23.39,baseline_pue; load_growth_rate; energy_pct_opex,74.69,89.91,78.75,89.1,83.93,83.93,HIGH
+PROEN OTT DC,Bangkok,,5.0,53.19,Good,63.22,39.85,23.37,baseline_pue; load_growth_rate; energy_pct_opex,44.72,58.31,48.29,58.02,53.19,53.19,HIGH
+Bahnhof Thule,Stockholm,Stockholm,3.0,37.21,Moderate,48.83,25.46,23.37,baseline_pue; load_growth_rate; energy_pct_opex,29.4,43.61,31.85,42.46,37.21,37.21,HIGH
+Vandagatan 3 STO6,Kista,,4.9,47.32,Moderate,57.16,33.85,23.31,baseline_pue; load_growth_rate; energy_pct_opex,38.77,52.32,42.44,52.13,47.32,47.32,HIGH
+Digital Realty FRA17,Frankfurt,Hesse,22.0,77.11,Excellent,87.82,64.52,23.3,baseline_pue; load_growth_rate; energy_pct_opex,69.13,82.68,72.19,82.02,77.11,77.11,HIGH
+Parkwest Industiral Estate DUB1,Dublin,,1.0,62.35,Good,70.74,47.48,23.26,baseline_pue; load_growth_rate; energy_pct_opex,52.47,66.33,57.62,66.93,62.35,62.35,HIGH
+Koolhovenlaan 25 AMS6,Amsterdam,,10.0,71.31,Good,81.82,58.6,23.22,baseline_pue; load_growth_rate; energy_pct_opex,63.26,76.74,66.4,76.19,71.31,71.31,HIGH
+Microsoft FRA29,Frankfurt,Hesse,24.0,77.27,Excellent,87.95,64.74,23.21,baseline_pue; load_growth_rate; energy_pct_opex,69.33,82.82,72.36,82.17,77.27,77.27,HIGH
+Vantage FRA11,Offenbach,Hesse,24.0,77.27,Excellent,87.95,64.74,23.21,baseline_pue; load_growth_rate; energy_pct_opex,69.33,82.82,72.36,82.17,77.27,77.27,HIGH
+CyrusOne FRA2,Frankfurt,Hesse,24.0,77.27,Excellent,87.95,64.74,23.21,baseline_pue; load_growth_rate; energy_pct_opex,69.33,82.82,72.36,82.17,77.27,77.27,HIGH
+DC West,Singapore,N/A,36.0,84.29,Excellent,93.59,70.39,23.2,baseline_pue; load_growth_rate; energy_pct_opex,75.16,90.22,79.13,89.45,84.29,84.29,HIGH
+AT TOKYO CC2,Tokyo,Tokyo,14.0,74.33,Good,84.92,61.73,23.19,baseline_pue; load_growth_rate; energy_pct_opex,66.35,79.82,69.43,79.23,74.33,74.33,HIGH
+NTT Frankfurt 1,Frankfurt,Hesse,25.0,77.34,Excellent,88.01,64.83,23.18,baseline_pue; load_growth_rate; energy_pct_opex,69.42,82.88,72.43,82.24,77.34,77.34,HIGH
+STT 6,Singapore,N/A,40.0,84.39,Excellent,93.67,70.52,23.15,baseline_pue; load_growth_rate; energy_pct_opex,75.28,90.3,79.23,89.54,84.39,84.39,HIGH
+Equinix SK1,Bromma,Stockholm,5.0,47.64,Moderate,57.43,34.28,23.15,baseline_pue; load_growth_rate; energy_pct_opex,39.18,52.6,42.78,52.44,47.64,47.64,HIGH
+EcoDataCenter Stockholm,Stockholm,Stockholm,5.0,47.64,Moderate,57.43,34.28,23.15,baseline_pue; load_growth_rate; energy_pct_opex,39.18,52.6,42.78,52.44,47.64,47.64,HIGH
+SGIGSM01,Rio de Janeiro,Rio de Janeiro,7.8,67.49,Good,77.85,54.72,23.13,baseline_pue; load_growth_rate; energy_pct_opex,59.41,72.82,62.6,72.35,67.49,67.49,HIGH
+NTT Tokyo 1,Tokyo,Tokyo,15.0,74.54,Good,85.09,62.0,23.09,baseline_pue; load_growth_rate; energy_pct_opex,66.62,79.99,69.64,79.42,74.54,74.54,HIGH
+Colt Inzai 2,Inzai,Chiba,15.0,74.54,Good,85.09,62.0,23.09,baseline_pue; load_growth_rate; energy_pct_opex,66.62,79.99,69.64,79.42,74.54,74.54,HIGH
+Sin12,Singapore,N/A,50.0,84.56,Excellent,93.81,70.75,23.06,baseline_pue; load_growth_rate; energy_pct_opex,75.51,90.45,79.41,89.7,84.56,84.56,HIGH
+Equinix FR11x,Frankfurt,Hesse,30.0,77.61,Excellent,88.23,65.2,23.03,baseline_pue; load_growth_rate; energy_pct_opex,69.77,83.11,72.71,82.5,77.61,77.61,HIGH
+Digital Realty FRA32,Frankfurt,Hesse,30.0,77.61,Excellent,88.23,65.2,23.03,baseline_pue; load_growth_rate; energy_pct_opex,69.77,83.11,72.71,82.5,77.61,77.61,HIGH
+NTT Frankfurt 4,Frankfurt,Hesse,30.0,77.61,Excellent,88.23,65.2,23.03,baseline_pue; load_growth_rate; energy_pct_opex,69.77,83.11,72.71,82.5,77.61,77.61,HIGH
+DC Tuas,Singapore,N/A,58.0,84.65,Excellent,93.89,70.88,23.01,baseline_pue; load_growth_rate; energy_pct_opex,75.63,90.53,79.51,89.8,84.65,84.65,HIGH
+CA1,Santa Clara,CA,77.0,84.8,Excellent,94.01,71.08,22.93,baseline_pue; load_growth_rate; energy_pct_opex,75.82,90.66,79.66,89.94,84.8,84.8,HIGH
+MN01,Minneapolis,MN,5.4,54.72,Good,64.61,41.71,22.9,baseline_pue; load_growth_rate; energy_pct_opex,46.52,59.73,49.87,59.52,54.72,54.72,HIGH
+SVY01C,San Jose,CA,100.0,84.9,Excellent,94.09,71.22,22.87,baseline_pue; load_growth_rate; energy_pct_opex,75.95,90.75,79.77,90.03,84.9,84.9,HIGH
+Equinix FR9x,Frankfurt,Hesse,40.0,77.95,Excellent,88.51,65.66,22.85,baseline_pue; load_growth_rate; energy_pct_opex,70.21,83.4,73.07,82.83,77.95,77.95,HIGH
+Equinix TY11,Tokyo,Tokyo,18.0,75.02,Excellent,85.49,62.65,22.84,baseline_pue; load_growth_rate; energy_pct_opex,67.24,80.41,70.14,79.88,75.02,75.02,HIGH
+NTT Tokyo 2,Tokyo,Tokyo,18.0,75.02,Excellent,85.49,62.65,22.84,baseline_pue; load_growth_rate; energy_pct_opex,67.24,80.41,70.14,79.88,75.02,75.02,HIGH
+Calle de Emilio Munoz 49-51 MAD3,Madrid,,5.8,57.4,Good,67.3,44.59,22.71,baseline_pue; load_growth_rate; energy_pct_opex,49.35,62.41,52.56,62.19,57.4,57.4,HIGH
+NTT Tokyo 5,Mitaka,Tokyo,20.0,75.25,Excellent,85.68,62.98,22.7,baseline_pue; load_growth_rate; energy_pct_opex,67.54,80.61,70.39,80.11,75.25,75.25,HIGH
+Colt Inzai 4,Inzai,Chiba,20.0,75.25,Excellent,85.68,62.98,22.7,baseline_pue; load_growth_rate; energy_pct_opex,67.54,80.61,70.39,80.11,75.25,75.25,HIGH
+RJ2,Rio de Janeiro,Rio de Janeiro,9.0,68.32,Good,78.54,55.85,22.69,baseline_pue; load_growth_rate; energy_pct_opex,60.49,73.54,63.47,73.15,68.32,68.32,HIGH
+HostDime Brazil,São Paulo,São Paulo,5.9,57.25,Good,67.09,44.53,22.56,baseline_pue; load_growth_rate; energy_pct_opex,49.27,62.22,52.43,62.03,57.25,57.25,HIGH
+Telehouse Tama 5,Tama,Tokyo,24.0,75.61,Excellent,85.98,63.46,22.52,baseline_pue; load_growth_rate; energy_pct_opex,68.01,80.92,70.77,80.45,75.61,75.61,HIGH
+NTT Tokyo 10,Mitaka,Tokyo,25.0,75.69,Excellent,86.04,63.56,22.48,baseline_pue; load_growth_rate; energy_pct_opex,68.1,80.98,70.84,80.52,75.69,75.69,HIGH
+SP1,Osasco,São Paulo,6.0,57.43,Good,67.24,44.76,22.48,baseline_pue; load_growth_rate; energy_pct_opex,49.5,62.37,52.61,62.2,57.43,57.43,HIGH
+Digital Realty NRT10,Inzai,Chiba,26.0,75.75,Excellent,86.09,63.65,22.44,baseline_pue; load_growth_rate; energy_pct_opex,68.19,81.04,70.91,80.58,75.75,75.75,HIGH
+Pudonweg 37 (AMS8),Amsterdam,,14.8,72.78,Good,83.03,60.59,22.44,baseline_pue; load_growth_rate; energy_pct_opex,65.16,78.01,67.94,77.6,72.78,72.78,HIGH
+Cessnalaan 50 AMS7,Amsterdam,,14.8,72.78,Good,83.03,60.59,22.44,baseline_pue; load_growth_rate; energy_pct_opex,65.16,78.01,67.94,77.6,72.78,72.78,HIGH
+Colt Inzai 3,Inzai,Chiba,27.0,75.81,Excellent,86.14,63.73,22.41,baseline_pue; load_growth_rate; energy_pct_opex,68.27,81.09,70.98,80.64,75.81,75.81,HIGH
+HD-1,Hyderabad,Telangana,5.5,46.07,Moderate,55.52,33.12,22.4,baseline_pue; load_growth_rate; energy_pct_opex,37.97,50.78,41.28,50.8,46.07,46.07,HIGH
+Tamboré,São Paulo,São Paulo,6.1,57.6,Good,67.38,44.99,22.39,baseline_pue; load_growth_rate; energy_pct_opex,49.72,62.52,52.79,62.36,57.6,57.6,HIGH
+Hanauer Landstrasse 304-306 (FRA2),Frankfurt,,0.4,48.98,Moderate,59.36,37.05,22.31,baseline_pue; load_growth_rate; energy_pct_opex,41.54,54.29,44.14,53.81,48.98,48.98,HIGH
+Via delle Testuggini (ROM1),Rome,Lazio,35.6,76.2,Excellent,86.46,64.25,22.21,baseline_pue; load_growth_rate; energy_pct_opex,68.76,81.42,71.38,81.01,76.2,76.2,HIGH
+Digital Realty NRT12,Inzai,Chiba,36.0,76.21,Excellent,86.47,64.27,22.2,baseline_pue; load_growth_rate; energy_pct_opex,68.78,81.44,71.4,81.02,76.21,76.21,HIGH
+Digital Realty NRT14,Inzai,Chiba,38.0,76.27,Excellent,86.52,64.35,22.17,baseline_pue; load_growth_rate; energy_pct_opex,68.86,81.49,71.46,81.08,76.27,76.27,HIGH
+IIJ Shiroi DC Campus,Shiroi,Chiba,40.0,76.33,Excellent,86.57,64.43,22.14,baseline_pue; load_growth_rate; energy_pct_opex,68.93,81.54,71.52,81.14,76.33,76.33,HIGH
+NTT Tokyo 11,Inzai,Chiba,50.0,76.55,Excellent,86.75,64.72,22.03,baseline_pue; load_growth_rate; energy_pct_opex,69.21,81.72,71.75,81.34,76.55,76.55,HIGH
+Equinix TY12x,Inzai,Chiba,54.0,76.61,Excellent,86.8,64.81,21.99,baseline_pue; load_growth_rate; energy_pct_opex,69.29,81.78,71.81,81.4,76.61,76.61,HIGH
+11-13 Avenue DEd Arts et MEtiers (PR5),Paris,,8.4,64.73,Good,74.56,52.58,21.98,baseline_pue; load_growth_rate; energy_pct_opex,57.19,69.67,59.95,69.48,64.73,64.73,HIGH
+Dub11,Clonshaugh,,3.0,81.48,Excellent,86.5,64.53,21.97,baseline_pue; load_growth_rate; energy_pct_opex,70.11,82.81,77.6,85.23,81.48,81.48,HIGH
+Servecentric Dublin,Dublin,Leinster,3.0,81.48,Excellent,86.5,64.53,21.97,baseline_pue; load_growth_rate; energy_pct_opex,70.11,82.81,77.6,85.23,81.48,81.48,HIGH
+Global Hubs - London,London,London,1.4,72.96,Good,79.48,57.64,21.84,baseline_pue; load_growth_rate; energy_pct_opex,63.96,75.47,68.76,77.08,72.96,72.96,HIGH
+Equinix HE1,Helsinki,,6.0,43.88,Moderate,53.04,31.21,21.83,baseline_pue; load_growth_rate; energy_pct_opex,36.03,48.37,39.14,48.55,43.88,43.88,HIGH
+nLighten Madrid MA1,Madrid,,2.0,38.0,Moderate,50.71,28.93,21.78,baseline_pue; load_growth_rate; energy_pct_opex,33.04,45.06,33.67,42.92,38.0,38.0,HIGH
+Conapto Stockholm 3 North,Sollentuna,,6.0,50.25,Good,59.58,37.81,21.77,baseline_pue; load_growth_rate; energy_pct_opex,42.55,54.84,45.51,54.93,50.25,50.25,HIGH
+Equinix SK3,Spånga,Stockholm,6.0,50.25,Good,59.58,37.81,21.77,baseline_pue; load_growth_rate; energy_pct_opex,42.55,54.84,45.51,54.93,50.25,50.25,HIGH
+DataBank IAD1,Ashburn,VA,6.0,46.56,Moderate,55.76,34.03,21.73,baseline_pue; load_growth_rate; energy_pct_opex,38.81,51.06,41.83,51.22,46.56,46.56,HIGH
+STT Delhi DC 3,New Delhi,Delhi,6.0,47.38,Moderate,56.6,34.88,21.72,baseline_pue; load_growth_rate; energy_pct_opex,39.65,51.9,42.65,52.05,47.38,47.38,HIGH
+MUM-2,Mumbai,Maharashtra,6.0,47.38,Moderate,56.6,34.88,21.72,baseline_pue; load_growth_rate; energy_pct_opex,39.65,51.9,42.65,52.05,47.38,47.38,HIGH
+NTT Tokyo 12,Inzai,Chiba,200.0,77.19,Excellent,87.28,65.6,21.68,baseline_pue; load_growth_rate; energy_pct_opex,70.05,82.28,72.42,81.96,77.19,77.19,HIGH
+Pudongweg 25 (AMS10),Amsterdam,,31.2,74.39,Good,84.35,62.76,21.59,baseline_pue; load_growth_rate; energy_pct_opex,67.23,79.39,69.63,79.14,74.39,74.39,HIGH
+Liverpool City King Edward,Liverpool,"North Wales, Merseyside & Cheshire",1.0,65.72,Good,73.52,52.11,21.41,baseline_pue; load_growth_rate; energy_pct_opex,57.32,69.24,61.18,70.16,65.72,65.72,HIGH
+Dub2,Dublin,,3.4,82.6,Excellent,87.42,66.06,21.36,baseline_pue; load_growth_rate; energy_pct_opex,71.56,83.77,78.78,86.3,82.6,82.6,HIGH
+Equinix SY1,Mascot,NSW,8.0,86.11,Excellent,91.21,69.96,21.25,baseline_pue; load_growth_rate; energy_pct_opex,75.07,87.73,80.6,90.7,86.11,86.11,HIGH
+Iron Mountain Data Centers AMS 1,Haarlem,,60.0,75.08,Excellent,84.93,63.71,21.22,baseline_pue; load_growth_rate; energy_pct_opex,68.13,79.99,70.36,79.8,75.08,75.08,HIGH
+LDeX Manchester (LDeX3),Manchester,N/A,1.5,74.16,Good,80.47,59.27,21.2,baseline_pue; load_growth_rate; energy_pct_opex,65.52,76.51,70.03,78.23,74.16,74.16,HIGH
+16 Joseph Froelicher (PAR12),Paris,,12.0,66.65,Good,76.15,55.18,20.97,baseline_pue; load_growth_rate; energy_pct_opex,59.68,71.32,61.96,71.32,66.65,66.65,HIGH
+Downtown Dallas,Dallas,TX,6.66,46.17,Moderate,55.07,34.1,20.97,baseline_pue; load_growth_rate; energy_pct_opex,38.81,50.45,41.51,50.77,46.17,46.17,HIGH
+YYZ10,Markham,Ontario,6.7,49.91,Moderate,58.91,37.96,20.95,baseline_pue; load_growth_rate; energy_pct_opex,42.63,54.26,45.25,54.53,49.91,49.91,HIGH
+Dub13,Kilcarbery,,3.8,83.49,Excellent,88.16,67.26,20.9,baseline_pue; load_growth_rate; energy_pct_opex,72.71,84.54,79.71,87.15,83.49,83.49,HIGH
+Equinix SY2,Mascot,NSW,10.0,86.88,Excellent,91.84,71.0,20.84,baseline_pue; load_growth_rate; energy_pct_opex,76.07,88.39,81.4,91.43,86.88,86.88,HIGH
+Equinix SY6,Silverwater,NSW,10.0,86.88,Excellent,91.84,71.0,20.84,baseline_pue; load_growth_rate; energy_pct_opex,76.07,88.39,81.4,91.43,86.88,86.88,HIGH
+Macquarie IC2,Macquarie Park,NSW,10.0,86.88,Excellent,91.84,71.0,20.84,baseline_pue; load_growth_rate; energy_pct_opex,76.07,88.39,81.4,91.43,86.88,86.88,HIGH
+3 Marchel Cachin PAR9,La Courneuve,,12.8,66.93,Good,76.38,55.56,20.82,baseline_pue; load_growth_rate; energy_pct_opex,60.04,71.56,62.26,71.59,66.93,66.93,HIGH
+DFW17,Dallas,TX,6.9,46.66,Moderate,55.47,34.77,20.7,baseline_pue; load_growth_rate; energy_pct_opex,39.45,50.87,42.03,51.24,46.66,46.66,HIGH
+Equinix SY3,Alexandria,NSW,12.0,87.39,Excellent,92.26,71.69,20.57,baseline_pue; load_growth_rate; energy_pct_opex,76.73,88.84,81.94,91.92,87.39,87.39,HIGH
+Dub10,Dublin,,4.2,84.21,Excellent,88.75,68.23,20.52,baseline_pue; load_growth_rate; energy_pct_opex,73.64,85.16,80.46,87.84,84.21,84.21,HIGH
+Cyfuture Bangalore,Bengaluru,Karnataka,3.0,33.03,Moderate,44.78,24.3,20.48,baseline_pue; load_growth_rate; energy_pct_opex,28.18,39.54,27.68,38.32,33.03,33.03,HIGH
+NEXTDC S6,Artarmon,NSW,13.0,87.59,Excellent,92.43,71.96,20.47,baseline_pue; load_growth_rate; energy_pct_opex,76.98,89.01,82.15,92.11,87.59,87.59,HIGH
+Equinix SY4,Mascot,NSW,14.0,87.76,Excellent,92.57,72.19,20.38,baseline_pue; load_growth_rate; energy_pct_opex,77.2,89.15,82.32,92.27,87.76,87.76,HIGH
+EdgeConneX PHX01,Tempe,AZ,8.0,55.89,Good,64.84,44.48,20.36,baseline_pue; load_growth_rate; energy_pct_opex,49.03,60.17,51.28,60.47,55.89,55.89,HIGH
+MSP3,Brooklyn Park,MN,9.0,59.54,Good,68.59,48.24,20.35,baseline_pue; load_growth_rate; energy_pct_opex,52.75,63.89,54.92,64.13,59.54,59.54,HIGH
+1-3 Rue Rateau (PAR7),Paris,,16.8,67.93,Good,77.2,56.92,20.28,baseline_pue; load_growth_rate; energy_pct_opex,61.33,72.42,63.3,72.54,67.93,67.93,HIGH
+Rio de Janeiro 1,Vinhedo,São Paulo,10.0,61.57,Good,70.65,50.37,20.28,baseline_pue; load_growth_rate; energy_pct_opex,54.85,65.94,56.95,66.16,61.57,61.57,HIGH
+ADA Rio de Janeiro,Rio de Janeiro,Rio de Janeiro,60.0,72.92,Good,82.33,62.08,20.25,baseline_pue; load_growth_rate; energy_pct_opex,66.43,77.5,68.29,77.55,72.92,72.92,HIGH
+NEXTDC S1,Macquarie Park,NSW,16.0,88.03,Excellent,92.79,72.56,20.23,baseline_pue; load_growth_rate; energy_pct_opex,77.56,89.39,82.61,92.54,88.03,88.03,HIGH
+DCI SYD02,Eastern Creek,NSW,16.0,88.03,Excellent,92.79,72.56,20.23,baseline_pue; load_growth_rate; energy_pct_opex,77.56,89.39,82.61,92.54,88.03,88.03,HIGH
+DUB3,Kilmahuddrick,,4.6,84.8,Excellent,89.24,69.04,20.2,baseline_pue; load_growth_rate; energy_pct_opex,74.41,85.67,81.08,88.41,84.8,84.8,HIGH
+Equinix SY5,Alexandria,NSW,18.0,88.24,Excellent,92.97,72.85,20.12,baseline_pue; load_growth_rate; energy_pct_opex,77.83,89.57,82.83,92.74,88.24,88.24,HIGH
+Macquarie IC3,Macquarie Park,NSW,18.0,88.24,Excellent,92.97,72.85,20.12,baseline_pue; load_growth_rate; energy_pct_opex,77.83,89.57,82.83,92.74,88.24,88.24,HIGH
+2 Marcel Cachin (PAR8),Paris,,19.2,68.33,Good,77.53,57.46,20.07,baseline_pue; load_growth_rate; energy_pct_opex,61.85,72.77,63.72,72.93,68.33,68.33,HIGH
+2 Marchel Cachin PAR11,La Courneuve,,19.2,68.33,Good,77.53,57.46,20.07,baseline_pue; load_growth_rate; energy_pct_opex,61.85,72.77,63.72,72.93,68.33,68.33,HIGH
+Telehouse Bangkok,Bangkok,,9.5,59.46,Good,68.39,48.34,20.05,baseline_pue; load_growth_rate; energy_pct_opex,52.82,63.72,54.87,64.02,59.46,59.46,HIGH
+Digital Realty STO5,Kista,Stockholm,8.0,53.51,Good,62.26,42.22,20.04,baseline_pue; load_growth_rate; energy_pct_opex,46.76,57.65,48.93,58.05,53.51,53.51,HIGH
+Digital Realty SYD10,Erskine Park,NSW,20.0,88.42,Excellent,93.11,73.08,20.03,baseline_pue; load_growth_rate; energy_pct_opex,78.05,89.72,83.01,92.9,88.42,88.42,HIGH
+CDC Eastern Creek 1,Eastern Creek,NSW,21.0,88.49,Excellent,93.17,73.18,19.99,baseline_pue; load_growth_rate; energy_pct_opex,78.15,89.78,83.09,92.97,88.49,88.49,HIGH
+D15 CXE2,Dublin,,5.0,85.3,Excellent,89.65,69.71,19.94,baseline_pue; load_growth_rate; energy_pct_opex,75.05,86.1,81.61,88.89,85.3,85.3,HIGH
+Profile Park DUB14,Kilcarbery,,5.0,85.3,Excellent,89.65,69.71,19.94,baseline_pue; load_growth_rate; energy_pct_opex,75.05,86.1,81.61,88.89,85.3,85.3,HIGH
+DAMAC Digital Bangkok,Bangkok,,10.0,59.81,Good,68.67,48.81,19.86,baseline_pue; load_growth_rate; energy_pct_opex,53.27,64.02,55.23,64.36,59.81,59.81,HIGH
+IDX,Palmas,Tocantins,1.2,43.74,Moderate,53.0,33.18,19.82,baseline_pue; load_growth_rate; energy_pct_opex,37.48,48.2,39.14,48.33,43.74,43.74,HIGH
+RJ1 Botafogo,Rio de Janeiro,Rio de Janeiro,1.0,43.74,Moderate,53.0,33.18,19.82,baseline_pue; load_growth_rate; energy_pct_opex,37.48,48.2,39.14,48.33,43.74,43.74,HIGH
+CDC Eastern Creek 2,Eastern Creek,NSW,28.0,88.85,Excellent,93.47,73.67,19.8,baseline_pue; load_growth_rate; energy_pct_opex,78.62,90.1,83.47,93.32,88.85,88.85,HIGH
+Equinix DC1,Ashburn,VA,8.0,50.24,Good,58.79,39.02,19.77,baseline_pue; load_growth_rate; energy_pct_opex,43.57,54.24,45.69,54.75,50.24,50.24,HIGH
+Equinix DC2,Ashburn,VA,8.0,50.24,Good,58.79,39.02,19.77,baseline_pue; load_growth_rate; energy_pct_opex,43.57,54.24,45.69,54.75,50.24,50.24,HIGH
+EdgeConneX EDCIAD01,Herndon,VA,8.0,50.24,Good,58.79,39.02,19.77,baseline_pue; load_growth_rate; energy_pct_opex,43.57,54.24,45.69,54.75,50.24,50.24,HIGH
+NEXTDC S2,Macquarie Park,NSW,30.0,88.93,Excellent,93.53,73.77,19.76,baseline_pue; load_growth_rate; energy_pct_opex,78.71,90.16,83.55,93.39,88.93,88.93,HIGH
+YTL Sydney,Auburn,NSW,30.0,88.93,Excellent,93.53,73.77,19.76,baseline_pue; load_growth_rate; energy_pct_opex,78.71,90.16,83.55,93.39,88.93,88.93,HIGH
+Digital Realty SYD11,Erskine Park,NSW,32.0,88.99,Excellent,93.58,73.86,19.72,baseline_pue; load_growth_rate; energy_pct_opex,78.8,90.21,83.62,93.46,88.99,88.99,HIGH
+Equinix HE5,Helsinki,,8.0,47.91,Moderate,56.36,36.66,19.7,baseline_pue; load_growth_rate; energy_pct_opex,41.23,51.84,43.37,52.4,47.91,47.91,HIGH
+Global Switch Sydney East,Ultimo,NSW,36.0,89.1,Excellent,93.67,74.0,19.67,baseline_pue; load_growth_rate; energy_pct_opex,78.93,90.31,83.73,93.56,89.1,89.1,HIGH
+Equinix SY9x,Rosehill,NSW,40.0,89.18,Excellent,93.74,74.12,19.62,baseline_pue; load_growth_rate; energy_pct_opex,79.04,90.38,83.82,93.64,89.18,89.18,HIGH
+EQR21,Clifton,NJ,30.0,69.34,Good,78.36,58.82,19.54,baseline_pue; load_growth_rate; energy_pct_opex,63.15,73.64,64.78,73.89,69.34,69.34,HIGH
+Global Switch Sydney West,Ultimo,NSW,52.0,89.36,Excellent,93.89,74.36,19.53,baseline_pue; load_growth_rate; energy_pct_opex,79.27,90.53,84.0,93.81,89.36,89.36,HIGH
+PLN1,Paulinia,São Paulo,13.0,63.0,Good,71.83,52.31,19.52,baseline_pue; load_growth_rate; energy_pct_opex,56.7,67.17,58.45,67.53,63.0,63.0,HIGH
+Equinix DB1,Dublin,Leinster,6.0,86.26,Excellent,90.44,71.01,19.43,baseline_pue; load_growth_rate; energy_pct_opex,76.29,86.92,82.61,89.8,86.26,86.26,HIGH
+NEXTDC S3,Artarmon,NSW,80.0,89.57,Excellent,94.06,74.64,19.42,baseline_pue; load_growth_rate; energy_pct_opex,79.54,90.71,84.22,94.01,89.57,89.57,HIGH
+NEXTDC S5,Macquarie Park,NSW,80.0,89.57,Excellent,94.06,74.64,19.42,baseline_pue; load_growth_rate; energy_pct_opex,79.54,90.71,84.22,94.01,89.57,89.57,HIGH
+Iron Mountain AZS-1,Scottsdale,AZ,10.0,57.69,Good,66.31,46.91,19.4,baseline_pue; load_growth_rate; energy_pct_opex,51.35,61.72,53.16,62.19,57.69,57.69,HIGH
+DEN-1,Denver,CO,12.3,61.68,Good,70.41,51.04,19.37,baseline_pue; load_growth_rate; energy_pct_opex,55.43,65.78,57.14,66.19,61.68,61.68,HIGH
+AirTrunk SYD3,Huntingwood,NSW,110.0,89.67,Excellent,94.14,74.78,19.36,baseline_pue; load_growth_rate; energy_pct_opex,79.68,90.8,84.33,94.11,89.67,89.67,HIGH
+AirTrunk SYD2,Lane Cove West,NSW,120.0,89.7,Excellent,94.16,74.81,19.35,baseline_pue; load_growth_rate; energy_pct_opex,79.71,90.82,84.36,94.13,89.7,89.7,HIGH
+AirTrunk SYD1,Huntingwood,NSW,130.0,89.72,Excellent,94.18,74.84,19.34,baseline_pue; load_growth_rate; energy_pct_opex,79.73,90.84,84.38,94.15,89.72,89.72,HIGH
+SP2,Osasco,São Paulo,14.0,63.34,Good,72.11,52.77,19.34,baseline_pue; load_growth_rate; energy_pct_opex,57.14,67.46,58.81,67.86,63.34,63.34,HIGH
+NYM1,Newark,NJ,40.0,69.79,Good,78.73,59.43,19.3,baseline_pue; load_growth_rate; energy_pct_opex,63.73,74.02,65.25,74.32,69.79,69.79,HIGH
+SP5x,São Paulo,São Paulo,14.4,63.46,Good,72.21,52.93,19.28,baseline_pue; load_growth_rate; energy_pct_opex,57.3,67.57,58.94,67.97,63.46,63.46,HIGH
+GDC Bangkok 3 Data Center,Chon Buri,,12.0,60.91,Good,69.58,50.31,19.27,baseline_pue; load_growth_rate; energy_pct_opex,54.7,64.97,56.39,65.41,60.91,60.91,HIGH
+NEXTDC S4,Horsley Park,NSW,350.0,89.87,Excellent,94.3,75.04,19.26,baseline_pue; load_growth_rate; energy_pct_opex,79.92,90.97,84.53,94.29,89.87,89.87,HIGH
+NEXTDC S7,Eastern Creek,NSW,550.0,89.9,Excellent,94.33,75.08,19.25,baseline_pue; load_growth_rate; energy_pct_opex,79.97,90.99,84.57,94.32,89.9,89.9,HIGH
+STT Bangkok 3,Bangkok,,2.0,36.43,Moderate,46.86,27.77,19.09,baseline_pue; load_growth_rate; energy_pct_opex,31.83,41.21,32.17,40.69,36.43,36.43,HIGH
+Piscataway 1,Piscataway,NJ,65.0,70.31,Good,79.16,60.13,19.03,baseline_pue; load_growth_rate; energy_pct_opex,64.4,74.47,65.79,74.82,70.31,70.31,HIGH
+MaNOC,Manchester,North West,2.0,78.38,Excellent,83.95,64.98,18.97,baseline_pue; load_growth_rate; energy_pct_opex,70.97,80.14,74.45,82.27,78.38,78.38,HIGH
+MCR1,Manchester,North West,2.0,78.38,Excellent,83.95,64.98,18.97,baseline_pue; load_growth_rate; energy_pct_opex,70.97,80.14,74.45,82.27,78.38,78.38,HIGH
+11 Hanbury Street (LON2),London,,2.0,78.38,Excellent,83.95,64.98,18.97,baseline_pue; load_growth_rate; energy_pct_opex,70.97,80.14,74.45,82.27,78.38,78.38,HIGH
+14 Rue de l'orme a moineaux PAR13,Les Ulis,,80.0,70.46,Good,79.28,60.34,18.94,baseline_pue; load_growth_rate; energy_pct_opex,64.6,74.6,65.96,74.96,70.46,70.46,HIGH
+Equinix DB2,Dublin,Leinster,8.0,87.45,Excellent,91.42,72.62,18.8,baseline_pue; load_growth_rate; energy_pct_opex,77.83,87.95,83.86,90.94,87.45,87.45,HIGH
+Keppel DC Dublin 2,Dublin,Leinster,8.0,87.45,Excellent,91.42,72.62,18.8,baseline_pue; load_growth_rate; energy_pct_opex,77.83,87.95,83.86,90.94,87.45,87.45,HIGH
+Iron Mountain AZP-1,Phoenix,AZ,12.0,58.88,Good,67.3,48.53,18.77,baseline_pue; load_growth_rate; energy_pct_opex,52.89,62.75,54.41,63.33,58.88,58.88,HIGH
+Cloud House West (LHR19),London,N/A,2.1,78.99,Excellent,84.44,65.8,18.64,baseline_pue; load_growth_rate; energy_pct_opex,71.75,80.66,75.08,82.84,78.99,78.99,HIGH
+11-15 Rue Galilee (PAR6),Paris,,1.0,41.13,Moderate,49.84,31.25,18.59,baseline_pue; load_growth_rate; energy_pct_opex,35.47,45.18,36.66,45.61,41.13,41.13,HIGH
+21 Rue du Port PAR4,Paris,,1.4,41.13,Moderate,49.84,31.25,18.59,baseline_pue; load_growth_rate; energy_pct_opex,35.47,45.18,36.66,45.61,41.13,41.13,HIGH
+Equinix DB4,Dublin,Leinster,10.0,88.17,Excellent,92.01,73.59,18.42,baseline_pue; load_growth_rate; energy_pct_opex,78.76,88.57,84.61,91.63,88.17,88.17,HIGH
+Equinix HE6,Espoo,,10.0,50.33,Good,58.35,39.93,18.42,baseline_pue; load_growth_rate; energy_pct_opex,44.35,53.92,45.9,54.72,50.33,50.33,HIGH
+TOR4,Markham,Ontario,11.0,54.76,Good,62.9,44.51,18.39,baseline_pue; load_growth_rate; energy_pct_opex,48.88,58.43,50.33,59.16,54.76,54.76,HIGH
+STO01A Vaultica Data Centers,Vasby,,12.0,56.77,Good,64.95,46.63,18.32,baseline_pue; load_growth_rate; energy_pct_opex,50.97,60.46,52.34,61.17,56.77,56.77,HIGH
+atNorth SWE01,Kista,,12.0,56.77,Good,64.95,46.63,18.32,baseline_pue; load_growth_rate; energy_pct_opex,50.97,60.46,52.34,61.17,56.77,56.77,HIGH
+Digital Realty STO6,Kista,Stockholm,12.0,56.77,Good,64.95,46.63,18.32,baseline_pue; load_growth_rate; energy_pct_opex,50.97,60.46,52.34,61.17,56.77,56.77,HIGH
+DB3,Ballycoolin,,11.0,88.43,Excellent,92.23,73.95,18.28,baseline_pue; load_growth_rate; energy_pct_opex,79.1,88.8,84.88,91.88,88.43,88.43,HIGH
+CyrusOne PHX1,Chandler,AZ,15.0,60.08,Good,68.28,50.14,18.14,baseline_pue; load_growth_rate; energy_pct_opex,54.43,63.78,55.66,64.48,60.08,60.08,HIGH
+CyrusOne PHX2,Chandler,AZ,15.0,60.08,Good,68.28,50.14,18.14,baseline_pue; load_growth_rate; energy_pct_opex,54.43,63.78,55.66,64.48,60.08,60.08,HIGH
+PhoenixNAP Phoenix,Phoenix,AZ,15.0,60.08,Good,68.28,50.14,18.14,baseline_pue; load_growth_rate; energy_pct_opex,54.43,63.78,55.66,64.48,60.08,60.08,HIGH
+Digital Realty DUB4,Dublin,Leinster,14.0,88.99,Excellent,92.69,74.7,17.99,baseline_pue; load_growth_rate; energy_pct_opex,79.82,89.28,85.47,92.41,88.99,88.99,HIGH
+Vantage AZ11,Goodyear,AZ,16.0,60.38,Good,68.53,50.55,17.98,baseline_pue; load_growth_rate; energy_pct_opex,54.82,64.04,55.98,64.76,60.38,60.38,HIGH
+H5 Phoenix,Chandler,AZ,16.0,60.38,Good,68.53,50.55,17.98,baseline_pue; load_growth_rate; energy_pct_opex,54.82,64.04,55.98,64.76,60.38,60.38,HIGH
+CtrlS Bangalore DC1,Bengaluru,Karnataka,12.0,54.55,Good,62.51,44.59,17.92,baseline_pue; load_growth_rate; energy_pct_opex,48.92,58.08,50.16,58.91,54.55,54.55,HIGH
+NCR-1,New Delhi,Delhi,12.0,54.55,Good,62.51,44.59,17.92,baseline_pue; load_growth_rate; energy_pct_opex,48.92,58.08,50.16,58.91,54.55,54.55,HIGH
+Keppel DC Dublin 1,Dublin,,16.0,89.25,Excellent,92.9,75.05,17.85,baseline_pue; load_growth_rate; energy_pct_opex,80.15,89.5,85.74,92.66,89.25,89.25,HIGH
+Equinix DC4,Ashburn,VA,12.0,53.93,Good,61.83,44.01,17.82,baseline_pue; load_growth_rate; energy_pct_opex,48.33,57.41,49.55,58.28,53.93,53.93,HIGH
+Equinix DC6,Ashburn,VA,12.0,53.93,Good,61.83,44.01,17.82,baseline_pue; load_growth_rate; energy_pct_opex,48.33,57.41,49.55,58.28,53.93,53.93,HIGH
+CoreSite VA1,Reston,VA,12.0,53.93,Good,61.83,44.01,17.82,baseline_pue; load_growth_rate; energy_pct_opex,48.33,57.41,49.55,58.28,53.93,53.93,HIGH
+Digital Realty DUB9,Dublin,Leinster,18.0,89.45,Excellent,93.06,75.32,17.74,baseline_pue; load_growth_rate; energy_pct_opex,80.41,89.67,85.95,92.85,89.45,89.45,HIGH
+CyrusOne PHX3,Chandler,AZ,18.0,60.88,Good,68.94,51.22,17.72,baseline_pue; load_growth_rate; energy_pct_opex,55.46,64.46,56.5,65.24,60.88,60.88,HIGH
+CyrusOne PHX4,Chandler,AZ,18.0,60.88,Good,68.94,51.22,17.72,baseline_pue; load_growth_rate; energy_pct_opex,55.46,64.46,56.5,65.24,60.88,60.88,HIGH
+Iron Mountain AZP-2,Phoenix,AZ,18.0,60.88,Good,68.94,51.22,17.72,baseline_pue; load_growth_rate; energy_pct_opex,55.46,64.46,56.5,65.24,60.88,60.88,HIGH
+Digital Realty DUB12,Dublin,Leinster,20.0,89.61,Excellent,93.19,75.54,17.65,baseline_pue; load_growth_rate; energy_pct_opex,80.61,89.81,86.11,93.0,89.61,89.61,HIGH
+Equinix SK2,Skondal,,15.0,58.08,Good,66.02,48.4,17.62,baseline_pue; load_growth_rate; energy_pct_opex,52.66,61.58,53.71,62.42,58.08,58.08,HIGH
+atNorth FIN02,Espoo,,12.0,51.94,Good,59.68,42.12,17.56,baseline_pue; load_growth_rate; energy_pct_opex,46.44,55.31,47.59,56.26,51.94,51.94,HIGH
+Verne Finland,Vantaa,,12.0,51.94,Good,59.68,42.12,17.56,baseline_pue; load_growth_rate; energy_pct_opex,46.44,55.31,47.59,56.26,51.94,51.94,HIGH
+Digital Realty DUB15,Dublin,Leinster,24.0,89.85,Excellent,93.39,75.86,17.53,baseline_pue; load_growth_rate; energy_pct_opex,80.92,90.01,86.37,93.23,89.85,89.85,HIGH
+CyrusOne DUB2,Dublin,Leinster,24.0,89.85,Excellent,93.39,75.86,17.53,baseline_pue; load_growth_rate; energy_pct_opex,80.92,90.01,86.37,93.23,89.85,89.85,HIGH
+EdgeConneX EDCDUB01,Dublin,Leinster,24.0,89.85,Excellent,93.39,75.86,17.53,baseline_pue; load_growth_rate; energy_pct_opex,80.92,90.01,86.37,93.23,89.85,89.85,HIGH
+CyrusOne PHX5,Chandler,AZ,20.0,61.27,Good,69.27,51.76,17.51,baseline_pue; load_growth_rate; energy_pct_opex,55.98,64.81,56.91,65.62,61.27,61.27,HIGH
+CyrusOne DUB3,Dublin,Leinster,26.0,89.94,Excellent,93.47,75.98,17.49,baseline_pue; load_growth_rate; energy_pct_opex,81.04,90.09,86.46,93.32,89.94,89.94,HIGH
+Col-3,Columbus,OH,18.0,60.01,Good,67.96,50.49,17.47,baseline_pue; load_growth_rate; energy_pct_opex,54.72,63.51,55.66,64.35,60.01,60.01,HIGH
+Microsoft DUB05,Dublin,Leinster,27.0,89.98,Excellent,93.5,76.04,17.46,baseline_pue; load_growth_rate; energy_pct_opex,81.09,90.13,86.5,93.36,89.98,89.98,HIGH
+Microsoft DUB06,Dublin,Leinster,27.0,89.98,Excellent,93.5,76.04,17.46,baseline_pue; load_growth_rate; energy_pct_opex,81.09,90.13,86.5,93.36,89.98,89.98,HIGH
+Equinix DB5x,Dublin,Leinster,30.0,90.09,Excellent,93.59,76.18,17.41,baseline_pue; load_growth_rate; energy_pct_opex,81.23,90.22,86.62,93.46,90.09,90.09,HIGH
+AWS Dublin 1,Dublin,Leinster,30.0,90.09,Excellent,93.59,76.18,17.41,baseline_pue; load_growth_rate; energy_pct_opex,81.23,90.22,86.62,93.46,90.09,90.09,HIGH
+AWS Dublin 2,Dublin,Leinster,30.0,90.09,Excellent,93.59,76.18,17.41,baseline_pue; load_growth_rate; energy_pct_opex,81.23,90.22,86.62,93.46,90.09,90.09,HIGH
+Microsoft DUB07,Dublin,Leinster,30.0,90.09,Excellent,93.59,76.18,17.41,baseline_pue; load_growth_rate; energy_pct_opex,81.23,90.22,86.62,93.46,90.09,90.09,HIGH
+Microsoft DUB08,Dublin,Leinster,30.0,90.09,Excellent,93.59,76.18,17.41,baseline_pue; load_growth_rate; energy_pct_opex,81.23,90.22,86.62,93.46,90.09,90.09,HIGH
+Google Dublin 1,Dublin,Leinster,30.0,90.09,Excellent,93.59,76.18,17.41,baseline_pue; load_growth_rate; energy_pct_opex,81.23,90.22,86.62,93.46,90.09,90.09,HIGH
+Sify Hyderabad,Hyderabad,Telangana,14.0,55.58,Good,63.35,45.98,17.37,baseline_pue; load_growth_rate; energy_pct_opex,50.24,58.96,51.24,59.89,55.58,55.58,HIGH
+Digital Realty PHX10,Phoenix,AZ,22.0,61.6,Good,69.54,52.2,17.34,baseline_pue; load_growth_rate; energy_pct_opex,56.4,65.09,57.26,65.93,61.6,61.6,HIGH
+Equinix DB6x,Dublin,Leinster,36.0,90.24,Excellent,93.72,76.4,17.32,baseline_pue; load_growth_rate; energy_pct_opex,81.44,90.36,86.78,93.61,90.24,90.24,HIGH
+AWS Dublin 3,Dublin,Leinster,36.0,90.24,Excellent,93.72,76.4,17.32,baseline_pue; load_growth_rate; energy_pct_opex,81.44,90.36,86.78,93.61,90.24,90.24,HIGH
+Microsoft DUB14,Dublin,Leinster,36.0,90.24,Excellent,93.72,76.4,17.32,baseline_pue; load_growth_rate; energy_pct_opex,81.44,90.36,86.78,93.61,90.24,90.24,HIGH
+11 Hanbury Street LON3,London,,2.7,81.66,Excellent,86.65,69.42,17.23,baseline_pue; load_growth_rate; energy_pct_opex,75.21,82.97,77.88,85.41,81.66,81.66,HIGH
+Apto DC Madrid Campus,Fuenlabrada,Community of Madrid,240.0,67.74,Good,75.82,58.59,17.23,baseline_pue; load_growth_rate; energy_pct_opex,62.71,71.32,63.4,72.08,67.74,67.74,HIGH
+Vantage DUB1,Dublin,Leinster,52.0,90.49,Excellent,93.92,76.73,17.19,baseline_pue; load_growth_rate; energy_pct_opex,81.75,90.57,87.04,93.85,90.49,90.49,HIGH
+QTS PHX1,Phoenix,AZ,24.0,61.87,Good,69.76,52.57,17.19,baseline_pue; load_growth_rate; energy_pct_opex,56.75,65.32,57.54,66.19,61.87,61.87,HIGH
+CyrusOne PHX6,Chandler,AZ,24.0,61.87,Good,69.76,52.57,17.19,baseline_pue; load_growth_rate; energy_pct_opex,56.75,65.32,57.54,66.19,61.87,61.87,HIGH
+CyrusOne PHX7,Chandler,AZ,24.0,61.87,Good,69.76,52.57,17.19,baseline_pue; load_growth_rate; energy_pct_opex,56.75,65.32,57.54,66.19,61.87,61.87,HIGH
+Cyrus One DUB 1,Ballybane,,54.0,90.51,Excellent,93.94,76.76,17.18,baseline_pue; load_growth_rate; energy_pct_opex,81.78,90.58,87.06,93.87,90.51,90.51,HIGH
+DFW-3,Plano,TX,13.5,53.35,Good,60.98,43.82,17.16,baseline_pue; load_growth_rate; energy_pct_opex,48.08,56.63,49.04,57.64,53.35,53.35,HIGH
+Google Dublin 2,Dublin,Leinster,60.0,90.56,Excellent,93.98,76.83,17.15,baseline_pue; load_growth_rate; energy_pct_opex,81.85,90.63,87.12,93.92,90.56,90.56,HIGH
+Equinix TR7,Brampton,Ontario,16.0,57.12,Good,64.85,47.71,17.14,baseline_pue; load_growth_rate; energy_pct_opex,51.93,60.46,52.8,61.41,57.12,57.12,HIGH
+Echelon DUB10,Dublin,Leinster,90.0,90.72,Excellent,94.11,77.05,17.06,baseline_pue; load_growth_rate; energy_pct_opex,82.05,90.77,87.28,94.07,90.72,90.72,HIGH
+Echelon DUB20,Arklow,Leinster,100.0,90.75,Excellent,94.14,77.09,17.05,baseline_pue; load_growth_rate; energy_pct_opex,82.1,90.79,87.32,94.1,90.75,90.75,HIGH
+Equinix DC5,Ashburn,VA,15.0,55.4,Good,63.04,46.0,17.04,baseline_pue; load_growth_rate; energy_pct_opex,50.24,58.68,51.09,59.69,55.4,55.4,HIGH
+PureColo DC2,Ottawa,Ontario,2.5,32.3,Moderate,41.77,24.73,17.04,baseline_pue; load_growth_rate; energy_pct_opex,28.63,36.33,28.23,36.38,32.3,32.3,HIGH
+Evolution DC Bangkok,Bangkok,,52.0,65.16,Good,73.08,56.05,17.03,baseline_pue; load_growth_rate; energy_pct_opex,60.18,68.62,60.83,69.47,65.16,65.16,HIGH
+SEA10,Seattle,WA,19.5,59.28,Good,67.01,50.03,16.98,baseline_pue; load_growth_rate; energy_pct_opex,54.21,62.62,54.97,63.57,59.28,59.28,HIGH
+1 Airport Gate (LHR17),London,,2.9,82.31,Excellent,87.18,70.3,16.88,baseline_pue; load_growth_rate; energy_pct_opex,76.05,83.52,78.56,86.02,82.31,82.31,HIGH
+QTS PHX2,Phoenix,AZ,30.0,62.47,Good,70.25,53.38,16.87,baseline_pue; load_growth_rate; energy_pct_opex,57.52,65.84,58.17,66.76,62.47,62.47,HIGH
+CyrusOne PHX8,Chandler,AZ,30.0,62.47,Good,70.25,53.38,16.87,baseline_pue; load_growth_rate; energy_pct_opex,57.52,65.84,58.17,66.76,62.47,62.47,HIGH
+Aligned PHX-01,Phoenix,AZ,30.0,62.47,Good,70.25,53.38,16.87,baseline_pue; load_growth_rate; energy_pct_opex,57.52,65.84,58.17,66.76,62.47,62.47,HIGH
+Vantage AZ12,Goodyear,AZ,32.0,62.62,Good,70.38,53.58,16.8,baseline_pue; load_growth_rate; energy_pct_opex,57.72,65.97,58.32,66.91,62.62,62.62,HIGH
+Vantage AZ13,Goodyear,AZ,32.0,62.62,Good,70.38,53.58,16.8,baseline_pue; load_growth_rate; energy_pct_opex,57.72,65.97,58.32,66.91,62.62,62.62,HIGH
+Equinix HE7,Espoo,,15.0,53.55,Good,61.01,44.3,16.71,baseline_pue; load_growth_rate; energy_pct_opex,48.52,56.7,49.28,57.8,53.55,53.55,HIGH
+Q01-1,Levis,Quebec,12.0,23.59,Low,32.53,15.83,16.7,baseline_pue; load_growth_rate; energy_pct_opex,19.31,27.98,18.8,28.28,23.59,23.59,HIGH
+Q01-2,Levis,Quebec,12.0,23.59,Low,32.53,15.83,16.7,baseline_pue; load_growth_rate; energy_pct_opex,19.31,27.98,18.8,28.28,23.59,23.59,HIGH
+Digital Realty PHX11,Mesa,AZ,36.0,62.87,Good,70.58,53.92,16.66,baseline_pue; load_growth_rate; energy_pct_opex,58.04,66.18,58.58,67.14,62.87,62.87,HIGH
+NTT PH1,Mesa,AZ,36.0,62.87,Good,70.58,53.92,16.66,baseline_pue; load_growth_rate; energy_pct_opex,58.04,66.18,58.58,67.14,62.87,62.87,HIGH
+151 Front St,Toronto,Ontario,20.0,58.15,Good,65.7,49.11,16.59,baseline_pue; load_growth_rate; energy_pct_opex,53.27,61.35,53.88,62.41,58.15,58.15,HIGH
+DigiPlex Oslo Ulven DNAS,Oslo,Oslo,15.0,52.62,Good,60.0,43.42,16.58,baseline_pue; load_growth_rate; energy_pct_opex,47.64,55.71,48.36,56.85,52.62,52.62,HIGH
+Equinix DC10,Ashburn,VA,18.0,56.39,Good,63.85,47.33,16.52,baseline_pue; load_growth_rate; energy_pct_opex,51.51,59.53,52.12,60.63,56.39,56.39,HIGH
+Digital Realty IAD35,Ashburn,VA,18.0,56.39,Good,63.85,47.33,16.52,baseline_pue; load_growth_rate; energy_pct_opex,51.51,59.53,52.12,60.63,56.39,56.39,HIGH
+CoreSite VA2,Reston,VA,18.0,56.39,Good,63.85,47.33,16.52,baseline_pue; load_growth_rate; energy_pct_opex,51.51,59.53,52.12,60.63,56.39,56.39,HIGH
+MIN5,Minneapolis,MN,1.5,36.77,Moderate,44.55,28.03,16.52,baseline_pue; load_growth_rate; energy_pct_opex,32.09,40.12,32.5,41.05,36.77,36.77,HIGH
+MSP4,Minneapolis,MN,0.779,36.77,Moderate,44.55,28.03,16.52,baseline_pue; load_growth_rate; energy_pct_opex,32.09,40.12,32.5,41.05,36.77,36.77,HIGH
+GDC - Mumbai 6,Mumbai,Maharashtra,19.2,57.24,Good,64.72,48.23,16.49,baseline_pue; load_growth_rate; energy_pct_opex,52.39,60.39,52.98,61.48,57.24,57.24,HIGH
+Aligned PHX-02,Phoenix,AZ,48.0,63.37,Good,70.99,54.59,16.4,baseline_pue; load_growth_rate; energy_pct_opex,58.68,66.61,59.11,67.62,63.37,63.37,HIGH
+Vantage AZ14,Goodyear,AZ,48.0,63.37,Good,70.99,54.59,16.4,baseline_pue; load_growth_rate; energy_pct_opex,58.68,66.61,59.11,67.62,63.37,63.37,HIGH
+Stream Goodyear,Goodyear,AZ,48.0,63.37,Good,70.99,54.59,16.4,baseline_pue; load_growth_rate; energy_pct_opex,58.68,66.61,59.11,67.62,63.37,63.37,HIGH
+Compass Mesa,Mesa,AZ,48.0,63.37,Good,70.99,54.59,16.4,baseline_pue; load_growth_rate; energy_pct_opex,58.68,66.61,59.11,67.62,63.37,63.37,HIGH
+Urbacon DC Toronto DC7,Toronto,Ontario,22.0,58.53,Good,66.01,49.62,16.39,baseline_pue; load_growth_rate; energy_pct_opex,53.76,61.68,54.28,62.77,58.53,58.53,HIGH
+Templus Lisbon,Lisbon,Estremadura,1.3,36.43,Moderate,44.13,27.77,16.36,baseline_pue; load_growth_rate; energy_pct_opex,31.83,39.72,32.17,40.69,36.43,36.43,HIGH
+NT Nonthaburi 1,Nonthaburi,,1.7,36.43,Moderate,44.13,27.77,16.36,baseline_pue; load_growth_rate; energy_pct_opex,31.83,39.72,32.17,40.69,36.43,36.43,HIGH
+NT Nonthaburi 2,Nonthaburi,,1.7,36.43,Moderate,44.13,27.77,16.36,baseline_pue; load_growth_rate; energy_pct_opex,31.83,39.72,32.17,40.69,36.43,36.43,HIGH
+Equinix DC12,Ashburn,VA,20.0,56.88,Good,64.26,48.0,16.26,baseline_pue; load_growth_rate; energy_pct_opex,52.14,59.95,52.64,61.1,56.88,56.88,HIGH
+atNorth SWE02,Kista,Stockholm,30.0,60.68,Good,68.17,51.93,16.24,baseline_pue; load_growth_rate; energy_pct_opex,56.03,63.83,56.44,64.91,60.68,60.68,HIGH
+atNorth FIN03,Espoo,,18.0,54.63,Good,61.89,45.75,16.14,baseline_pue; load_growth_rate; energy_pct_opex,49.91,57.62,50.4,58.83,54.63,54.63,HIGH
+C Spire Starkville,Starkville,MS,1.5,35.91,Moderate,43.5,27.39,16.11,baseline_pue; load_growth_rate; energy_pct_opex,31.42,39.12,31.68,40.15,35.91,35.91,HIGH
+Digital Realty IAD36,Ashburn,VA,22.0,57.28,Good,64.59,48.54,16.05,baseline_pue; load_growth_rate; energy_pct_opex,52.66,60.3,53.06,61.48,57.28,57.28,HIGH
+Digital Realty IAD38,Ashburn,VA,22.0,57.28,Good,64.59,48.54,16.05,baseline_pue; load_growth_rate; energy_pct_opex,52.66,60.3,53.06,61.48,57.28,57.28,HIGH
+CN1,Chennai,Tamil Nadu,24.0,58.14,Good,65.46,49.44,16.02,baseline_pue; load_growth_rate; energy_pct_opex,53.55,61.17,53.92,62.34,58.14,58.14,HIGH
+Chennai II,Chennai,Tamil Nadu,24.0,58.14,Good,65.46,49.44,16.02,baseline_pue; load_growth_rate; energy_pct_opex,53.55,61.17,53.92,62.34,58.14,58.14,HIGH
+Axon Reservoir,Liverpool,"North Wales, Merseyside & Cheshire",3.6,84.01,Excellent,88.58,72.6,15.98,baseline_pue; load_growth_rate; energy_pct_opex,78.24,84.99,80.34,87.65,84.01,84.01,HIGH
+DigiPlex Oslo Rosenholm DRAS,Oslo,Oslo,18.0,53.75,Good,60.92,44.95,15.97,baseline_pue; load_growth_rate; energy_pct_opex,49.09,56.68,49.54,57.93,53.75,53.75,HIGH
+Microsoft Sandviken,Sandviken,,40.0,61.34,Good,68.71,52.81,15.9,baseline_pue; load_growth_rate; energy_pct_opex,56.87,64.39,57.13,65.54,61.34,61.34,HIGH
+PDX-11,Hillsboro,OR,54.0,62.45,Good,69.85,53.98,15.87,baseline_pue; load_growth_rate; energy_pct_opex,58.02,65.52,58.24,66.66,62.45,62.45,HIGH
+Digital Realty IAD39,Ashburn,VA,24.0,57.61,Good,64.86,49.0,15.86,baseline_pue; load_growth_rate; energy_pct_opex,53.09,60.59,53.41,61.8,57.61,57.61,HIGH
+CyrusOne Mesa,Mesa,AZ,198.0,64.5,Good,71.92,56.13,15.79,baseline_pue; load_growth_rate; energy_pct_opex,60.14,67.58,60.29,68.7,64.5,64.5,HIGH
+DigiPlex Fetsund,Fetsund,Oslo,20.0,54.31,Good,61.39,45.71,15.68,baseline_pue; load_growth_rate; energy_pct_opex,49.82,57.16,50.13,58.47,54.31,54.31,HIGH
+Equinix CL3,Calgary,Alberta,17.0,49.34,Moderate,56.27,40.59,15.68,baseline_pue; load_growth_rate; energy_pct_opex,44.76,52.1,45.17,53.48,49.34,49.34,HIGH
+CL3,Calgary,Alberta,17.0,49.34,Moderate,56.27,40.59,15.68,baseline_pue; load_growth_rate; energy_pct_opex,44.76,52.1,45.17,53.48,49.34,49.34,HIGH
+CHN 1,Chennai,Tamil Nadu,30.0,58.85,Good,66.05,50.41,15.64,baseline_pue; load_growth_rate; energy_pct_opex,54.48,61.78,54.67,63.03,58.85,58.85,HIGH
+SDC Seattle,Seattle,WA,54.0,61.84,Good,69.13,53.5,15.63,baseline_pue; load_growth_rate; energy_pct_opex,57.53,64.83,57.66,66.02,61.84,61.84,HIGH
+Oliver's Tard (LHR18),London,,4.0,84.71,Excellent,89.16,73.55,15.61,baseline_pue; load_growth_rate; energy_pct_opex,79.15,85.59,81.08,88.32,84.71,84.71,HIGH
+MCR2,Manchester,North West,4.0,84.71,Excellent,89.16,73.55,15.61,baseline_pue; load_growth_rate; energy_pct_opex,79.15,85.59,81.08,88.32,84.71,84.71,HIGH
+LHR18,London,London,4.0,84.71,Excellent,89.16,73.55,15.61,baseline_pue; load_growth_rate; energy_pct_opex,79.15,85.59,81.08,88.32,84.71,84.71,HIGH
+Microsoft Gävle,Gävle,,60.0,61.99,Good,69.24,53.69,15.55,baseline_pue; load_growth_rate; energy_pct_opex,57.71,64.95,57.81,66.16,61.99,61.99,HIGH
+HOU2,Houston,TX,24.0,56.41,Good,63.5,47.96,15.54,baseline_pue; load_growth_rate; energy_pct_opex,52.03,59.26,52.24,60.57,56.41,56.41,HIGH
+TOR1,Vaughan,Ontario,39.0,60.18,Good,67.37,51.85,15.52,baseline_pue; load_growth_rate; energy_pct_opex,55.88,63.09,56.0,64.34,60.18,60.18,HIGH
+Equinix DC21,Ashburn,VA,30.0,58.35,Good,65.47,49.99,15.48,baseline_pue; load_growth_rate; energy_pct_opex,54.05,61.22,54.18,62.51,58.35,58.35,HIGH
+CoreSite VA3,Reston,VA,30.0,58.35,Good,65.47,49.99,15.48,baseline_pue; load_growth_rate; energy_pct_opex,54.05,61.22,54.18,62.51,58.35,58.35,HIGH
+CyrusOne Sterling I,Sterling,VA,30.0,58.35,Good,65.47,49.99,15.48,baseline_pue; load_growth_rate; energy_pct_opex,54.05,61.22,54.18,62.51,58.35,58.35,HIGH
+CyrusOne Sterling II,Sterling,VA,30.0,58.35,Good,65.47,49.99,15.48,baseline_pue; load_growth_rate; energy_pct_opex,54.05,61.22,54.18,62.51,58.35,58.35,HIGH
+EcoDataCenter Horndal,Horndal,,75.0,62.25,Good,69.46,54.04,15.42,baseline_pue; load_growth_rate; energy_pct_opex,58.05,65.18,58.08,66.41,62.25,62.25,HIGH
+Equinix DC22,Ashburn,VA,32.0,58.54,Good,65.62,50.24,15.38,baseline_pue; load_growth_rate; energy_pct_opex,54.28,61.38,54.38,62.68,58.54,58.54,HIGH
+PNW1,Quincy,WA,90.0,62.42,Good,69.6,54.28,15.32,baseline_pue; load_growth_rate; energy_pct_opex,58.27,65.33,58.26,66.58,62.42,62.42,HIGH
+EcoDataCenter Falun,Falun,,90.0,62.42,Good,69.6,54.28,15.32,baseline_pue; load_growth_rate; energy_pct_opex,58.27,65.33,58.26,66.58,62.42,62.42,HIGH
+Cloud House LHR30,London,,4.5,85.42,Excellent,89.74,74.5,15.24,baseline_pue; load_growth_rate; energy_pct_opex,80.05,86.2,81.81,88.99,85.42,85.42,HIGH
+AWS IAD10,Sterling,VA,36.0,58.84,Good,65.88,50.66,15.22,baseline_pue; load_growth_rate; energy_pct_opex,54.68,61.65,54.7,62.98,58.84,58.84,HIGH
+QTS Manassas DC1,Manassas,VA,36.0,58.84,Good,65.88,50.66,15.22,baseline_pue; load_growth_rate; energy_pct_opex,54.68,61.65,54.7,62.98,58.84,58.84,HIGH
+Sabey Ashburn SDC1,Ashburn,VA,36.0,58.84,Good,65.88,50.66,15.22,baseline_pue; load_growth_rate; energy_pct_opex,54.68,61.65,54.7,62.98,58.84,58.84,HIGH
+Meta Luleå,Luleå,,120.0,62.64,Good,69.78,54.57,15.21,baseline_pue; load_growth_rate; energy_pct_opex,58.55,65.51,58.49,66.79,62.64,62.64,HIGH
+Multigrid Falun,Falun,,150.0,62.77,Good,69.89,54.75,15.14,baseline_pue; load_growth_rate; energy_pct_opex,58.72,65.63,58.63,66.91,62.77,62.77,HIGH
+AWS IAD50,Ashburn,VA,40.0,59.09,Good,66.08,50.99,15.09,baseline_pue; load_growth_rate; energy_pct_opex,55.0,61.86,54.96,63.21,59.09,59.09,HIGH
+AWS IAD60,Ashburn,VA,40.0,59.09,Good,66.08,50.99,15.09,baseline_pue; load_growth_rate; energy_pct_opex,55.0,61.86,54.96,63.21,59.09,59.09,HIGH
+HYD11,Hyderabad,Telangana,48.0,59.93,Good,66.94,51.87,15.07,baseline_pue; load_growth_rate; energy_pct_opex,55.87,62.71,55.8,64.06,59.93,59.93,HIGH
+Sovereign House (LHR20),London,,4.8,85.77,Excellent,90.03,74.98,15.05,baseline_pue; load_growth_rate; energy_pct_opex,80.51,86.5,82.18,89.33,85.77,85.77,HIGH
+NM1,Mumbai,Maharashtra,52.0,60.07,Good,67.05,52.06,14.99,baseline_pue; load_growth_rate; energy_pct_opex,56.04,62.83,55.94,64.19,60.07,60.07,MEDIUM
+SUPERNAP 8,Las Vegas,NV,50.0,59.85,Good,66.81,51.84,14.97,baseline_pue; load_growth_rate; energy_pct_opex,55.83,62.59,55.72,63.96,59.85,59.85,MEDIUM
+AUS2-AUS3,Austin,TX,33.0,57.48,Good,64.38,49.41,14.97,baseline_pue; load_growth_rate; energy_pct_opex,53.42,60.19,53.36,61.59,57.48,57.48,MEDIUM
+RCH-1,Richmond,VA,48.0,59.46,Good,66.38,51.49,14.89,baseline_pue; load_growth_rate; energy_pct_opex,55.47,62.17,55.34,63.56,59.46,59.46,MEDIUM
+Vantage VA11,Ashburn,VA,48.0,59.46,Good,66.38,51.49,14.89,baseline_pue; load_growth_rate; energy_pct_opex,55.47,62.17,55.34,63.56,59.46,59.46,MEDIUM
+Vantage VA12,Ashburn,VA,48.0,59.46,Good,66.38,51.49,14.89,baseline_pue; load_growth_rate; energy_pct_opex,55.47,62.17,55.34,63.56,59.46,59.46,MEDIUM
+ESbogatan 11 (STO4),Stockholm,Kista,1.8,33.29,Moderate,40.32,25.46,14.86,baseline_pue; load_growth_rate; energy_pct_opex,29.4,36.07,29.18,37.41,33.29,33.29,MEDIUM
+ESbogatan 11 STO4,Kista,,1.8,33.29,Moderate,40.32,25.46,14.86,baseline_pue; load_growth_rate; energy_pct_opex,29.4,36.07,29.18,37.41,33.29,33.29,MEDIUM
+Esbogatan 11 STO3,Kista,,1.5,33.29,Moderate,40.32,25.46,14.86,baseline_pue; load_growth_rate; energy_pct_opex,29.4,36.07,29.18,37.41,33.29,33.29,MEDIUM
+Esbogatan 11 STO2,Kista,,1.8,33.29,Moderate,40.32,25.46,14.86,baseline_pue; load_growth_rate; energy_pct_opex,29.4,36.07,29.18,37.41,33.29,33.29,MEDIUM
+Conapto Stockholm 1 City,Stockholm,,1.0,33.29,Moderate,40.32,25.46,14.86,baseline_pue; load_growth_rate; energy_pct_opex,29.4,36.07,29.18,37.41,33.29,33.29,MEDIUM
+AWS IAD105,Manassas,VA,50.0,59.53,Good,66.44,51.59,14.85,baseline_pue; load_growth_rate; energy_pct_opex,55.57,62.24,55.42,63.64,59.53,59.53,MEDIUM
+Bengaluru 4,Bengaluru,Karnataka,67.2,60.44,Good,67.36,52.56,14.8,baseline_pue; load_growth_rate; energy_pct_opex,56.53,63.15,56.34,64.55,60.44,60.44,MEDIUM
+LBL1,Liverpool,"North Wales, Merseyside & Cheshire",5.3,86.26,Excellent,90.44,75.65,14.79,baseline_pue; load_growth_rate; energy_pct_opex,81.15,86.93,82.7,89.81,86.26,86.26,MEDIUM
+Green Mountain OSL2 Hamar,Hamar,,30.0,56.0,Good,62.78,47.99,14.79,baseline_pue; load_growth_rate; energy_pct_opex,52.0,58.61,51.9,60.08,56.0,56.0,MEDIUM
+IAD-01,Ashburn,VA,60.0,59.83,Good,66.69,51.99,14.7,baseline_pue; load_growth_rate; energy_pct_opex,55.95,62.49,55.73,63.92,59.83,59.83,MEDIUM
+Iron Mountain VA-1,Manassas,VA,60.0,59.83,Good,66.69,51.99,14.7,baseline_pue; load_growth_rate; energy_pct_opex,55.95,62.49,55.73,63.92,59.83,59.83,MEDIUM
+NVA06,Leesburg,VA,72.0,60.07,Good,66.89,52.32,14.57,baseline_pue; load_growth_rate; energy_pct_opex,56.27,62.7,55.99,64.15,60.07,60.07,MEDIUM
+IAD5,Culpeper,VA,72.0,60.07,Good,66.89,52.32,14.57,baseline_pue; load_growth_rate; energy_pct_opex,56.27,62.7,55.99,64.15,60.07,60.07,MEDIUM
+QTS Ashburn DC1,Ashburn,VA,72.0,60.07,Good,66.89,52.32,14.57,baseline_pue; load_growth_rate; energy_pct_opex,56.27,62.7,55.99,64.15,60.07,60.07,MEDIUM
+Green Mountain OSL1 Rjukan,Rjukan,,35.0,56.48,Good,63.18,48.64,14.54,baseline_pue; load_growth_rate; energy_pct_opex,52.62,59.03,52.4,60.54,56.48,56.48,MEDIUM
+11 Hanbury Street (LON1),London,,6.2,86.96,Excellent,91.01,76.59,14.42,baseline_pue; load_growth_rate; energy_pct_opex,82.05,87.53,83.43,90.47,86.96,86.96,MEDIUM
+11 Hanbury Street LON1,London,,6.2,86.96,Excellent,91.01,76.59,14.42,baseline_pue; load_growth_rate; energy_pct_opex,82.05,87.53,83.43,90.47,86.96,86.96,MEDIUM
+MAA10,Chennai,Tamil Nadu,150.0,61.15,Good,67.94,53.52,14.42,baseline_pue; load_growth_rate; energy_pct_opex,57.44,63.76,57.08,65.22,61.15,61.15,MEDIUM
+MU1,Mumbai,Maharashtra,150.0,61.15,Good,67.94,53.52,14.42,baseline_pue; load_growth_rate; energy_pct_opex,57.44,63.76,57.08,65.22,61.15,61.15,MEDIUM
+SUPERNAP 9,Las Vegas,NV,150.0,61.0,Good,67.77,53.41,14.36,baseline_pue; load_growth_rate; energy_pct_opex,57.33,63.59,56.94,65.07,61.0,61.0,MEDIUM
+Green Mountain DC1 Stavanger,Rennesøy,,45.0,57.12,Good,63.71,49.51,14.2,baseline_pue; load_growth_rate; energy_pct_opex,53.45,59.58,53.07,61.16,57.12,57.12,MEDIUM
+Richmond 1,Richmond,VA,238.0,60.93,Good,67.59,53.48,14.11,baseline_pue; load_growth_rate; energy_pct_opex,57.38,63.44,56.88,64.97,60.93,60.93,MEDIUM
+STT Delhi DC 1,New Delhi,Delhi,1.6,31.72,Moderate,38.41,24.3,14.11,baseline_pue; load_growth_rate; energy_pct_opex,28.18,34.25,27.68,35.77,31.72,31.72,MEDIUM
+GDC - Chennai 1,Chennai,Tamil Nadu,2.0,31.72,Moderate,38.41,24.3,14.11,baseline_pue; load_growth_rate; energy_pct_opex,28.18,34.25,27.68,35.77,31.72,31.72,MEDIUM
+630 Ajax Ave LHR26,Slough,,9.0,88.23,Excellent,92.06,78.31,13.75,baseline_pue; load_growth_rate; energy_pct_opex,83.69,88.62,84.76,91.68,88.23,88.23,MEDIUM
+Red Oak,Red Oak,TX,360.0,60.08,Good,66.52,52.92,13.6,baseline_pue; load_growth_rate; energy_pct_opex,56.78,62.43,56.09,64.08,60.08,60.08,MEDIUM
+Cologix MTL10,Montreal,Quebec,35.0,41.12,Moderate,46.97,33.45,13.52,baseline_pue; load_growth_rate; energy_pct_opex,37.5,43.07,37.16,45.04,41.12,41.12,MEDIUM
+Hayes,London,N/A,12.0,88.93,Excellent,92.64,79.26,13.38,baseline_pue; load_growth_rate; energy_pct_opex,84.6,89.22,85.5,92.36,88.93,88.93,MEDIUM
+Bell Aliant Halifax,Halifax,Nova Scotia,1.0,30.08,Moderate,36.42,23.08,13.34,baseline_pue; load_growth_rate; energy_pct_opex,26.91,32.34,26.11,34.05,30.08,30.08,MEDIUM
+Equinix HE2,Helsinki,Uusimaa,1.0,30.0,Moderate,36.32,23.02,13.3,baseline_pue; load_growth_rate; energy_pct_opex,26.85,32.25,26.03,33.97,30.0,30.0,MEDIUM
+Qu Edmonton 1,Edmonton,Alberta,49.0,54.18,Good,60.26,47.14,13.12,baseline_pue; load_growth_rate; energy_pct_opex,51.01,56.27,50.24,58.11,54.18,54.18,MEDIUM
+Echelon LCY10,London,N/A,17.0,89.55,Excellent,93.15,80.1,13.05,baseline_pue; load_growth_rate; energy_pct_opex,85.4,89.76,86.15,92.95,89.55,89.55,MEDIUM
+LHR13,Chessington,London,18.0,89.64,Excellent,93.22,80.21,13.01,baseline_pue; load_growth_rate; energy_pct_opex,85.51,89.83,86.23,93.03,89.64,89.64,MEDIUM
+The Chess Building,Watford,,31.0,90.22,Excellent,93.7,81.01,12.69,baseline_pue; load_growth_rate; energy_pct_opex,86.27,90.34,86.85,93.59,90.22,90.22,MEDIUM
+LON-1-3,London,N/A,41.0,90.42,Excellent,93.87,81.28,12.59,baseline_pue; load_growth_rate; energy_pct_opex,86.52,90.51,87.06,93.78,90.42,90.42,MEDIUM
+Spring Park,Corsham,South West,55.0,90.58,Excellent,94.0,81.49,12.51,baseline_pue; load_growth_rate; energy_pct_opex,86.73,90.65,87.23,93.93,90.58,90.58,MEDIUM
+Goldwsworth PArk Trading Estate (LGW14),London,,84.0,90.74,Excellent,94.13,81.7,12.43,baseline_pue; load_growth_rate; energy_pct_opex,86.93,90.78,87.39,94.09,90.74,90.74,MEDIUM
+LGW14,Woking,London,84.0,90.74,Excellent,94.13,81.7,12.43,baseline_pue; load_growth_rate; energy_pct_opex,86.93,90.78,87.39,94.09,90.74,90.74,MEDIUM
+CWL1 Cardiff,Newport,South Wales,148.0,90.87,Excellent,94.23,81.88,12.35,baseline_pue; load_growth_rate; energy_pct_opex,87.1,90.89,87.53,94.21,90.87,90.87,MEDIUM
+QC4 - Montreal II,Pointe-Claire,Quebec,48.0,43.59,Moderate,49.01,36.8,12.21,baseline_pue; load_growth_rate; energy_pct_opex,40.7,45.2,39.75,47.41,43.59,43.59,MEDIUM
+Equinix CL 1,Calgary,Alberta,0.8,26.75,Moderate,32.38,20.62,11.76,baseline_pue; load_growth_rate; energy_pct_opex,24.33,28.48,22.93,30.57,26.75,26.75,MEDIUM
+CL1,Calgary,Alberta,1.0,26.75,Moderate,32.38,20.62,11.76,baseline_pue; load_growth_rate; energy_pct_opex,24.33,28.48,22.93,30.57,26.75,26.75,MEDIUM
+CL2,Calgary,Alberta,2.0,26.75,Moderate,32.38,20.62,11.76,baseline_pue; load_growth_rate; energy_pct_opex,24.33,28.48,22.93,30.57,26.75,26.75,MEDIUM
+BCE Richardson,Regina,Saskatchewan,300.0,54.11,Good,59.38,48.35,11.03,baseline_pue; load_growth_rate; energy_pct_opex,52.02,55.57,50.36,57.86,54.11,54.11,MEDIUM
+Quebec City (QC2) Data Center Campus,Quebec City,Quebec,86.0,46.54,Moderate,51.43,40.79,10.64,baseline_pue; load_growth_rate; energy_pct_opex,44.5,47.74,42.84,50.23,46.54,46.54,MEDIUM
+QC6 - Montreal III,Baie-d'Urfé,Quebec,89.0,46.66,Moderate,51.54,40.96,10.58,baseline_pue; load_growth_rate; energy_pct_opex,44.66,47.84,42.97,50.35,46.66,46.66,MEDIUM
+Cologix VAN1,Vancouver,British Columbia,0.75,23.77,Low,28.76,18.42,10.34,baseline_pue; load_growth_rate; energy_pct_opex,22.03,25.02,20.09,27.46,23.77,23.77,MEDIUM
+Cologix MTL11,Montreal,Quebec,1.0,20.26,Low,24.5,15.83,8.67,baseline_pue; load_growth_rate; energy_pct_opex,19.31,20.94,16.74,23.79,20.26,20.26,MEDIUM
+Cologix MTL7,Montreal,Quebec,2.6,20.26,Low,24.5,15.83,8.67,baseline_pue; load_growth_rate; energy_pct_opex,19.31,20.94,16.74,23.79,20.26,20.26,MEDIUM
